@@ -1,6 +1,14 @@
 # rollup
 
 
+## scripts
+```javascript
+// 安装依赖
+npm install
+// 执行打包命令
+npm run rollup
+```
+
 ## 工具
 ### ast
 ast语法树在线分析工具  **[https://astexplorer.net/](https://astexplorer.net/)**
