@@ -1,6 +1,6 @@
 import { getMaxString, abc, bbb } from "./test";
 
-// getMaxString("abcdabcde");
+getMaxString("abcdabcde");
 
 console.log("aaaa");
 
